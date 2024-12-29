@@ -22,10 +22,10 @@ I am a **Data Science enthusiast** driven by a passion for turning data into act
 
   ## 📫 How to reach me
 - 📧 Email: [likhithamarrapu811@gmail.com](mailto:likhithamarrapu811@gmail.com)
-- 🌐 LinkedIn: [linkedin.com/in/likhitha-marrapu]((https://www.linkedin.com/in/likhitha-marrapu-9964001b4/))
+- 🌐 LinkedIn: [linkedin.com/in/likhitha-marrapu](https://www.linkedin.com/in/likhitha-marrapu-9964001b4/)
 
   ## ⚡ Fun fact:
-- I achieved **98.51% accuracy** in a **Deep Learning** model for blood cell classification, which was accepted for **FICC 2025** in Berlin! 🌍
+- I co-authored a research which achieved **98.51% accuracy** in a **Deep Learning** model for blood cell classification, which was accepted for **FICC 2025** in Berlin! 🌍
 
   ## 🛠️ Technical Skills
 - **Tools & Technologies**: Python, R, MySQL, SQL, Jupyter Notebook, TensorFlow, Keras, Scikit-learn, Power BI, Tableau, Excel, NumPy, Pandas, Seaborn, Matplotlib, Plotly
