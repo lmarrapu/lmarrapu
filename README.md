@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Likhitha Marrapu  
 
-🚀 **Data Analyst | Analytics Engineer | Applied ML Practitioner**  
+🚀 **Data Engineer | Analytics Engineer | Applied ML Practitioner**  
 
 I’m a data professional with 5 years of experience building scalable analytics solutions, cloud-based data pipelines, and insight-driven dashboards across healthcare and finance domains. I specialize in transforming complex datasets into reliable, decision-ready insights using modern analytics platforms, business intelligence tools, and applied machine learning techniques.
 
